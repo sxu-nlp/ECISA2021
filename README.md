@@ -36,9 +36,7 @@
 
 [SMP2021-ECISA 中文隐式情感分析评测报名表](https://docs.qq.com/form/page/DWVRnblBYY1FSZHNp?_w_tencentdocx_form=1)
 
-![报名二维码](https://ftp.bmp.ovh/imgs/2021/05/e7af53fe65a7db93.png)
-
-
+![报名二维码](https://i0.hdslb.com/bfs/album/3d6fc0c473f9c9319d7248788e2f261ecc526595.png)
 
 ## 四、数据集与赛程安排
 
@@ -143,6 +141,6 @@ XXXXX
 联系人：廖健　　联系方式：[liaojian_reg@163.com](mailto:liaojian_reg@163.com)
 
 
+### 参考文献
 
-
-<span id="f1">1. [^](#a1)</span> 徐琳宏, 林鸿飞, 潘宇,等. 情感词汇本体的构造[J]. 情报学报, 2008, 27(2):180-185.
+<span id="f1">[1]. [^](#a1)</span> 徐琳宏, 林鸿飞, 潘宇,等. 情感词汇本体的构造[J]. 情报学报, 2008, 27(2):180-185.
