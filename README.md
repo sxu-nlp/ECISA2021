@@ -34,10 +34,9 @@
 
 本次评测采用在线报名，请点击下面的链接或扫描二维码进行填写。
 
-【腾讯文档】SMP2021-ECISA 中文隐式情感分析评测报名表
-https://docs.qq.com/form/page/DWVRnblBYY1FSZHNp?_w_tencentdocx_form=1
+[SMP2021-ECISA 中文隐式情感分析评测报名表](https://docs.qq.com/form/page/DWVRnblBYY1FSZHNp?_w_tencentdocx_form=1)
 
-<img src="C:\Users\GPU\Desktop\组织评测\SMP2021\SMP2021-ECISA 中文隐式情感分析评测报名表二维码.png" alt="SMP2021-ECISA 中文隐式情感分析评测报名表二维码" style="zoom:50%;" />
+![扫码报名](https://github.com/sxu-nlp/ECISA2021/blob/main/Resources/SMP2021-ECISA 中文隐式情感分析评测报名表二维码.png)
 
 
 
