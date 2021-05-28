@@ -72,7 +72,7 @@
 
 本阶段由国家自然科学基金重点项目——[社交媒体中文本情感语义计算理论和方法](http://sa-nsfc.com/)开发的[在线评测平台](http://sa-nsfc.com/evaluation/)提供支持。参赛队伍需登录该平台注册报名[SMP2019“拓尔思杯”中文隐式情感分析评测(SMP-ECISA2019)](http://sa-nsfc.com/evaluation/ecisa/scheme)获取数据集。其中训练集由SMP2019-ECISA的训练、验证集构成，验证集由SMP2019-ECISA的测试集构成。
 
-在该阶段，参赛队伍可在测试平台提交验证集结果，提交结果会在评测平台[排行榜](http://sa-nsfc.com/evaluation/ecisa/rank)上实时公布。提交文件格式详见平台[提交说明](http://sa-nsfc.com/evaluation/ecisa/description)页面。
+在该阶段，参赛队伍可在测试平台提交验证集结果，**每支队伍每天可提交一次验证结果**。提交结果会在评测平台[排行榜](http://sa-nsfc.com/evaluation/ecisa/rank)上实时公布。提交文件格式详见平台[提交说明](http://sa-nsfc.com/evaluation/ecisa/description)页面。
 
 **提交第一阶段成绩不作为最终成绩，仅为参赛队伍迭代模型提供参考。**
 
