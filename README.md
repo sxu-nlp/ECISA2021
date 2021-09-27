@@ -1,5 +1,7 @@
 # SMP2021-ECISA 中文隐式情感分析评测
 
+## 参赛人数：81支队伍，185名参赛者
+
 ## 一、评测背景
 
 欢迎来到SMP2021中文隐式情感分析评测（The Evaluation of Chinese Implicit Sentiment Analysis，SMP-ECISA 2021）。
